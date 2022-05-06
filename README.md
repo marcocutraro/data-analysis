@@ -28,7 +28,7 @@ Probability is commonly referred to as the hazard rate (hazard ratio). Predictiv
 
 Cox regression can be interpreted as follows:
 
-![results5](https://github.com/marcocutraro/data-analysis/blob/main/results5.png)
+![results7](https://github.com/marcocutraro/data-analysis/blob/main/results7.png)
 ![results6](https://github.com/marcocutraro/data-analysis/blob/main/results6.png)
 
   - The column "z" lists the Wald statistical value, corresponds ratio between coefficient and standard deviation (z = Coef / Std Err)
