@@ -33,6 +33,9 @@ Cox regression can be interpreted as follows:
   - The confidence interval represents the interval within which the 'true' effect of the hazard ratio that would be observed in the population is likely to be included.
   
 It is possible to visualize the expected survival proportion at a given point in time for a particular at-risk group (in our case, individuals with and without unemployment insurance, ui) using a Kaplan-Meier estimation plot, i.e., a series of horizontal steps of decreasing magnitude that approximates the true survival function for that population.
+![results1](https://github.com/marcocutraro/data-analysis/blob/main/results1.png)
+![results2](https://github.com/marcocutraro/data-analysis/blob/main/results2.png)
+
 The images show Nelson-Aalen plots, the Nelson-Aalen estimator is a non-parametric estimator of the cumulative hazard ratio function, it is used in survival analysis to estimate the cumulative number of expected events.
 
 ## Conclusion
