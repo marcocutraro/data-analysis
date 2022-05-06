@@ -17,10 +17,10 @@ The main hypothesis to be tested is whether the demographic factors that most in
 
 ## Methods
 
-![methods](https://github.com/marcocutraro/data-analysis/blob/main/methods.png)
-
 Having a dataset with a variable that identifies the duration and a variable that identifies whether the event (re-employed at full time job) occurs or not we can do a Survival Analysis using STATA, software for processing statistical data.
 Through the Survival Analysis we intend to analyze the time to the occurrence of a given event. In this case the quantitative variable spell indicates the duration of the period of unemployment, while event is a dummy variable that expresses value 1 if the individual has been reemployed and 0 if he is still unemployed.
+
+![methods](https://github.com/marcocutraro/data-analysis/blob/main/methods.png)
 
 ### Cox Proportional-Hazards Model
 The purpose of the model is to simultaneously assess the effect of multiple factors on survival. In other words, it allows us to examine how specific factors affect the frequency with which a particular event occurs (e.g., infection, death, or in our case, finding a job) at a given time.
