@@ -42,7 +42,7 @@ It is possible to visualize the expected survival proportion at a given point in
 ![results1](https://github.com/marcocutraro/data-analysis/blob/main/results1.png)
 ![results2](https://github.com/marcocutraro/data-analysis/blob/main/results2.png)
 
-The images show Nelson-Aalen plots, the Nelson-Aalen estimator is a non-parametric estimator of the cumulative hazard ratio function, it is used in survival analysis to estimate the cumulative number of expected events.
+The images below show Nelson-Aalen plots, the Nelson-Aalen estimator is a non-parametric estimator of the cumulative hazard ratio function, it is used in survival analysis to estimate the cumulative number of expected events.
 ![results3](https://github.com/marcocutraro/data-analysis/blob/main/results3.png)
 ![results4](https://github.com/marcocutraro/data-analysis/blob/main/results4.png)
 
