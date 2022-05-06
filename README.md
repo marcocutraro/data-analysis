@@ -27,6 +27,10 @@ Probability is commonly referred to as the hazard rate (hazard ratio). Predictiv
 ## Results
 
 Cox regression can be interpreted as follows:
+
+![results5](https://github.com/marcocutraro/data-analysis/blob/main/results5.png)
+![results6](https://github.com/marcocutraro/data-analysis/blob/main/results6.png)
+
   - The column "z" lists the Wald statistical value, corresponds ratio between coefficient and standard deviation (z = Coef / Std Err)
   - The positive sign of the coefficients indicates greater risk for individuals with high values of that variable and viceversa. In our case the term "risk" can be misleading because an increase in it represents a greater probability that the     event "re-employed at full time job" occurs.
   - The Hazard ratio (Haz. Ratio) in survival analysis represents the effect of an explanatory variable (e.g. having or not having unemployment insurance) on the danger or risk of an event (e.g. finding a job or remaining unemployed).
