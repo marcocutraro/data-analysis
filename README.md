@@ -46,4 +46,4 @@ The images below show Nelson-Aalen plots, the Nelson-Aalen estimator is a non-pa
 
 ## Conclusion
 
-Using the Survival Analysis method, in particular the Cox regression (Cox Proportional Hazards Model), we can see that of all the covariates, the one that most affects the duration of unemployment is the possession of unemployment insurance (ui), a type of state insurance that pays people money on a weekly basis when they lose their jobs and meet certain eligibility requirements.
+Using the Survival Analysis method, in particular the Cox regression (Cox Proportional Hazards Model), we can see that of all the covariates, the one that most affects the duration of unemployment is the possession of unemployment insurance (ui), a type of state insurance that pays people on a weekly basis when they lose their jobs and meet certain eligibility requirements.
